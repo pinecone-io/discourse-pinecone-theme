@@ -184,7 +184,7 @@ a {
   text-transform: uppercase;
   border: 2px solid var(--tertiary);
   .fa {
-    color: white;
+    color: var(--secondary);
   }
   &:hover {
     background: var(--tertiary);
@@ -193,7 +193,7 @@ a {
     transition: all 0.3s linear;
     border-radius: var(--mint-border-radius);
     .fa {
-      color: var(--color-light1);
+      color: var(--secondary);
     }
   }
 }
@@ -266,7 +266,7 @@ a {
   .select-kit.dropdown-select-box
   .dropdown-select-box-header {
   background: transparent;
-  color: white !important;
+  color: var(--primary-medium);
   border: 1px solid transparent;
   border-radius: 0;
   svg {
@@ -291,7 +291,7 @@ a {
   background: var(--tertiary-hover);
   border-radius: 5px;
   .fa {
-    color: white;
+    color: var(--secondary);
   }
 }
 
@@ -310,7 +310,7 @@ a {
   text-transform: uppercase;
   border: 1px solid var(--tertiary);
   .fa {
-    color: white;
+    color: var(--secondary);
   }
 }
 
@@ -348,7 +348,7 @@ a:hover {
 .image-upload-controls .btn-default {
   border: 1px solid var(--secondary);
   .fa {
-    color: white;
+    color: var(--secondary);
   }
 }
 
