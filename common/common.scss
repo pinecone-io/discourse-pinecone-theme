@@ -184,7 +184,7 @@ a {
   text-transform: uppercase;
   border: 2px solid var(--tertiary);
   .fa {
-    color: var(--color-light1);
+    color: white;
   }
   &:hover {
     background: var(--tertiary);
@@ -291,7 +291,7 @@ a {
   background: var(--tertiary-hover);
   border-radius: 5px;
   .fa {
-    color: var(--color-light1);
+    color: white;
   }
 }
 
@@ -310,7 +310,7 @@ a {
   text-transform: uppercase;
   border: 1px solid var(--tertiary);
   .fa {
-    color: var(--color-light1);
+    color: white;
   }
 }
 
@@ -348,7 +348,7 @@ a:hover {
 .image-upload-controls .btn-default {
   border: 1px solid var(--secondary);
   .fa {
-    color: var(--color-light1);
+    color: white;
   }
 }
 
