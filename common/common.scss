@@ -184,7 +184,7 @@ a {
   text-transform: uppercase;
   border: 2px solid var(--tertiary);
   .fa {
-    color: var(--secondary);
+    color: var(--color-light1);
   }
   &:hover {
     background: var(--tertiary);
@@ -193,7 +193,7 @@ a {
     transition: all 0.3s linear;
     border-radius: var(--mint-border-radius);
     .fa {
-      color: var(--secondary);
+      color: var(--color-light1);
     }
   }
 }
@@ -291,7 +291,7 @@ a {
   background: var(--tertiary-hover);
   border-radius: 5px;
   .fa {
-    color: var(--secondary);
+    color: var(--color-light1);
   }
 }
 
@@ -310,7 +310,7 @@ a {
   text-transform: uppercase;
   border: 1px solid var(--tertiary);
   .fa {
-    color: var(--secondary);
+    color: var(--color-light1);
   }
 }
 
@@ -348,7 +348,7 @@ a:hover {
 .image-upload-controls .btn-default {
   border: 1px solid var(--secondary);
   .fa {
-    color: var(--secondary);
+    color: var(--color-light1);
   }
 }
 
