@@ -243,9 +243,9 @@ a {
   &.active {
     border-radius: var(--mint-border-radius);
     transition: all 0.3s linear;
-    background: var(--mint-color-mint);
+    background: var(--color-alpha1);
     color: var(--secondary);
-    border: 1px solid var(--mint-color-mint);
+    border: 1px solid var(--color-alpha1);
   }
 }
 
